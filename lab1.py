@@ -21,3 +21,4 @@ def qwetest_same():
 
 if __name__ == '__main__':
 	print(min_word(input()))
+	
